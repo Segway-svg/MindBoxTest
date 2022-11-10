@@ -1,0 +1,6 @@
+C:\Users\tukat\source\repos\SomeMath\SomeMath\obj\Debug\SomeMath.csproj.AssemblyReference.cache
+C:\Users\tukat\source\repos\SomeMath\SomeMath\obj\Debug\SomeMath.csproj.CoreCompileInputs.cache
+C:\Users\tukat\source\repos\SomeMath\SomeMath\bin\Debug\SomeMath.dll
+C:\Users\tukat\source\repos\SomeMath\SomeMath\bin\Debug\SomeMath.pdb
+C:\Users\tukat\source\repos\SomeMath\SomeMath\obj\Debug\SomeMath.dll
+C:\Users\tukat\source\repos\SomeMath\SomeMath\obj\Debug\SomeMath.pdb
