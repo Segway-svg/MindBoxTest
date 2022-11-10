@@ -1,0 +1,9 @@
+C:\Users\tukat\source\repos\SomeMathTest\SomeMathTest\bin\Debug\SomeMathTest.exe.config
+C:\Users\tukat\source\repos\SomeMathTest\SomeMathTest\bin\Debug\SomeMathTest.exe
+C:\Users\tukat\source\repos\SomeMathTest\SomeMathTest\bin\Debug\SomeMathTest.pdb
+C:\Users\tukat\source\repos\SomeMathTest\SomeMathTest\obj\Debug\SomeMathTest.csproj.AssemblyReference.cache
+C:\Users\tukat\source\repos\SomeMathTest\SomeMathTest\obj\Debug\SomeMathTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\tukat\source\repos\SomeMathTest\SomeMathTest\obj\Debug\SomeMathTest.csproj.CoreCompileInputs.cache
+C:\Users\tukat\source\repos\SomeMathTest\SomeMathTest\obj\Debug\SomeMathTest.exe
+C:\Users\tukat\source\repos\SomeMathTest\SomeMathTest\obj\Debug\SomeMathTest.pdb
+C:\Users\tukat\source\repos\SomeMathTest\SomeMathTest\obj\Debug\SomeMathTest.csproj.CopyComplete
