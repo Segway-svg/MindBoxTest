@@ -43,9 +43,14 @@
   <ItemGroup>
     <Compile Include="Figures\Circle.cs" />
     <Compile Include="IFigures.cs" />
+    <Compile Include="output\file.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Figures\Triangle.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Debug" />
+    <Folder Include="Release" />
+    <Folder Include="target" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
