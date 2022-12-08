@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="aboba\Ckss.cs" />
+    <Compile Include="app\ddd.cs" />
     <Compile Include="Figures\Circle.cs" />
     <Compile Include="IFigures.cs" />
     <Compile Include="output\file.cs" />
