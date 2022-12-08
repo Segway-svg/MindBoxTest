@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="aboba\Ckss.cs" />
     <Compile Include="Figures\Circle.cs" />
     <Compile Include="IFigures.cs" />
     <Compile Include="output\file.cs" />
@@ -48,7 +49,6 @@
     <Compile Include="Figures\Triangle.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="aboba" />
     <Folder Include="Debug" />
     <Folder Include="Release" />
     <Folder Include="target" />
